@@ -3,7 +3,7 @@
 ## Canvas 球球大作战（单机版）
 
 > ![](https://www.runoob.com/try/demo_source/pineapple.jpg)
-
+>
 > 使用技术：
 >
 > HTML5：Canvas、localStorage
@@ -15,7 +15,7 @@
 ## JavaScript 微信打飞机游戏（DOM）
 
 > ![](https://www.runoob.com/wp-content/uploads/2016/04/trolltunga.jpg)
-
+>
 > 使用技术：
 >
 > CSS：position，transition，LESS
